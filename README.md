@@ -104,4 +104,4 @@ data-warehouse-project/
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
-Aspiring Data Analyst focused on building real-world SQL and data warehousing projects to support data-driven decision making.
+I’m Ankitha, an aspiring Data Analyst focused on building real-world SQL and data warehousing projects that enable data-driven decision making.
